@@ -10,5 +10,33 @@
         "name": "Aakanksha Patel"
     },
     "items": [
+        {
+            "id": "https://aakanksha89.github.io/bananayellow/about-me.html",
+            "url": "https://aakanksha89.github.io/bananayellow/about-me.html",
+            "title": "About Me",
+            "summary": "Hello! My name is Aakanksha Patel. I am a senior studying Communications and Digital Humanities at UCLA. I am very passionate about all&hellip;",
+            "content_html": "<p>Hello! My name is Aakanksha Patel. I am a senior studying Communications and Digital Humanities at UCLA. I am very passionate about all things art- from sketching, to painting, to dancing, to film, EVERYTHING! </p>",
+            "author": {
+                "name": "Aakanksha Patel"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-10-31T13:03:49-07:00",
+            "date_modified": "2021-10-31T13:46:52-07:00"
+        },
+        {
+            "id": "https://aakanksha89.github.io/bananayellow/welcome-to-my-art-shop-banana-yellow.html",
+            "url": "https://aakanksha89.github.io/bananayellow/welcome-to-my-art-shop-banana-yellow.html",
+            "title": "Welcome to my Art Shop, Banana Yellow!",
+            "summary": "This is your one-stop shop for all things art! 100% handmade, and 110% with love, feel free to scroll around and click on&hellip;",
+            "content_html": "<p class=\"align-left\"><em><strong>This is your one-stop shop for all things art! 100% handmade, and 110% with love, feel free to scroll around and click on an art piece that resonates with you. </strong></em></p>\n<p>Check out these vibrant paintings I made! </p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://aakanksha89.github.io/bananayellow/media/posts/1/gallery/IMG_2534.jpg\" data-size=\"1125x1498\"><img loading=\"lazy\" src=\"https://aakanksha89.github.io/bananayellow/media/posts/1/gallery/IMG_2534-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"959\"></a>\n<figcaption>Floral &amp; Fauna</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://aakanksha89.github.io/bananayellow/media/posts/1/gallery/IMG_2535.jpg\" data-size=\"1125x1503\"><img loading=\"lazy\" src=\"https://aakanksha89.github.io/bananayellow/media/posts/1/gallery/IMG_2535-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"962\"></a>\n<figcaption>Denmark, Copenhagen</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://aakanksha89.github.io/bananayellow/media/posts/1/gallery/IMG_2536.jpg\" data-size=\"1125x1442\"><img loading=\"lazy\" src=\"https://aakanksha89.github.io/bananayellow/media/posts/1/gallery/IMG_2536-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"923\"></a>\n<figcaption>Stillness in the Swamp</figcaption>\n</figure>\n</div></div>\n<p> </p>",
+            "author": {
+                "name": "Aakanksha Patel"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-10-31T12:33:46-07:00",
+            "date_modified": "2021-10-31T13:41:00-07:00"
+        }
     ]
 }

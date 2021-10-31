@@ -3,10 +3,63 @@
     <title>Banana Yellow</title>
     <link href="https://aakanksha89.github.io/bananayellow/feed.xml" rel="self" />
     <link href="https://aakanksha89.github.io/bananayellow" />
-    <updated>1969-12-31T16:00:00-08:00</updated>
+    <updated>2021-10-31T13:46:52-07:00</updated>
     <author>
         <name>Aakanksha Patel</name>
     </author>
     <id>https://aakanksha89.github.io/bananayellow</id>
 
+    <entry>
+        <title>About Me</title>
+        <author>
+            <name>Aakanksha Patel</name>
+        </author>
+        <link href="https://aakanksha89.github.io/bananayellow/about-me.html"/>
+        <id>https://aakanksha89.github.io/bananayellow/about-me.html</id>
+
+        <updated>2021-10-31T13:46:52-07:00</updated>
+            <summary>
+                <![CDATA[
+                    Hello! My name is Aakanksha Patel. I am a senior studying Communications and Digital Humanities at UCLA. I am very passionate about all&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Hello! My name is Aakanksha Patel. I am a senior studying Communications and Digital Humanities at UCLA. I am very passionate about all things art- from sketching, to painting, to dancing, to film, EVERYTHING! </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Welcome to my Art Shop, Banana Yellow!</title>
+        <author>
+            <name>Aakanksha Patel</name>
+        </author>
+        <link href="https://aakanksha89.github.io/bananayellow/welcome-to-my-art-shop-banana-yellow.html"/>
+        <id>https://aakanksha89.github.io/bananayellow/welcome-to-my-art-shop-banana-yellow.html</id>
+
+        <updated>2021-10-31T13:41:00-07:00</updated>
+            <summary>
+                <![CDATA[
+                    This is your one-stop shop for all things art! 100% handmade, and 110% with love, feel free to scroll around and click on&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="align-left"><em><strong>This is your one-stop shop for all things art! 100% handmade, and 110% with love, feel free to scroll around and click on an art piece that resonates with you. </strong></em></p>
+<p>Check out these vibrant paintings I made! </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://aakanksha89.github.io/bananayellow/media/posts/1/gallery/IMG_2534.jpg" data-size="1125x1498"><img loading="lazy" src="https://aakanksha89.github.io/bananayellow/media/posts/1/gallery/IMG_2534-thumbnail.jpg" alt="" width="720" height="959"></a>
+<figcaption>Floral &amp; Fauna</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://aakanksha89.github.io/bananayellow/media/posts/1/gallery/IMG_2535.jpg" data-size="1125x1503"><img loading="lazy" src="https://aakanksha89.github.io/bananayellow/media/posts/1/gallery/IMG_2535-thumbnail.jpg" alt="" width="720" height="962"></a>
+<figcaption>Denmark, Copenhagen</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://aakanksha89.github.io/bananayellow/media/posts/1/gallery/IMG_2536.jpg" data-size="1125x1442"><img loading="lazy" src="https://aakanksha89.github.io/bananayellow/media/posts/1/gallery/IMG_2536-thumbnail.jpg" alt="" width="720" height="923"></a>
+<figcaption>Stillness in the Swamp</figcaption>
+</figure>
+</div></div>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
 </feed>
