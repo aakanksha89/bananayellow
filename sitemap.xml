@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://aakanksha89.github.io/bananayellow/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://aakanksha89.github.io/bananayellow/</loc>
+</url>
+<url>
+<loc>https://aakanksha89.github.io/bananayellow/about-me.html</loc>
+<lastmod>2021-10-31T13:04:22-07:00</lastmod>
+</url>
+<url>
+<loc>https://aakanksha89.github.io/bananayellow/welcome-to-my-art-shop-banana-yellow.html</loc>
+<lastmod>2021-10-31T12:37:06-07:00</lastmod>
+<image:image>
+<image:loc>https://aakanksha89.github.io/bananayellow/media/posts/1/gallery/IMG_2534-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://aakanksha89.github.io/bananayellow/media/posts/1/gallery/IMG_2535-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://aakanksha89.github.io/bananayellow/media/posts/1/gallery/IMG_2536-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>

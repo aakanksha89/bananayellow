@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Banana Yellow",
+    "description": "",
+    "home_page_url": "https://aakanksha89.github.io/bananayellow",
+    "feed_url": "https://aakanksha89.github.io/bananayellow/feed.json",
+    "user_comment": "",
+    "icon": "https://aakanksha89.github.io/bananayellow/media/website/1-01-2.png",
+    "author": {
+        "name": "Aakanksha Patel"
+    },
+    "items": [
+    ]
+}
