@@ -15,14 +15,14 @@
             "url": "https://aakanksha89.github.io/bananayellow/about-me.html",
             "title": "About Me",
             "summary": "Hello! My name is Aakanksha Patel. I am a senior studying Communications and Digital Humanities at UCLA. I am very passionate about all&hellip;",
-            "content_html": "<p>Hello! My name is Aakanksha Patel. I am a senior studying Communications and Digital Humanities at UCLA. I am very passionate about all things art- from sketching, to painting, to dancing, to film, EVERYTHING! </p>",
+            "content_html": "<p>Hello! My name is Aakanksha Patel. I am a senior studying Communications and Digital Humanities at UCLA. I am very passionate about all things art- from sketching, to painting, to dancing, to film, EVERYTHING!</p>\n<div class=\"gallery-wrapper gallery-wrapper--wide\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://aakanksha89.github.io/bananayellow/media/posts/2/gallery/4e4ddec8-1d38-4071-baa1-0f755b3ff547_Original.jpg\" data-size=\"1200x1600\"><img loading=\"lazy\" src=\"https://aakanksha89.github.io/bananayellow/media/posts/2/gallery/4e4ddec8-1d38-4071-baa1-0f755b3ff547_Original-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"960\"></a>\n<figcaption>That's me in San Diego's La Jolla, one of my favorite places to sit and paint at!</figcaption>\n</figure>\n</div></div>\n<p>The color yellow of a banana is my favorite color which translates onto the name of this website. I have always loved to paint, but with quarantine the hobby turned into a passion. I spent most of time surrounded with colors and brushes. This webpage is designed to give you a sneak peak into what I have been up to, and if you like anything, please support me by buying a piece!</p>",
             "author": {
                 "name": "Aakanksha Patel"
             },
             "tags": [
             ],
             "date_published": "2021-10-31T13:03:49-07:00",
-            "date_modified": "2021-10-31T19:40:27-07:00"
+            "date_modified": "2021-10-31T22:42:28-07:00"
         },
         {
             "id": "https://aakanksha89.github.io/bananayellow/welcome-to-my-art-shop-banana-yellow.html",

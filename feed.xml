@@ -3,7 +3,7 @@
     <title>Banana Yellow</title>
     <link href="https://aakanksha89.github.io/bananayellow/feed.xml" rel="self" />
     <link href="https://aakanksha89.github.io/bananayellow" />
-    <updated>2021-10-31T19:40:27-07:00</updated>
+    <updated>2021-10-31T22:42:28-07:00</updated>
     <author>
         <name>Aakanksha Patel</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://aakanksha89.github.io/bananayellow/about-me.html"/>
         <id>https://aakanksha89.github.io/bananayellow/about-me.html</id>
 
-        <updated>2021-10-31T19:40:27-07:00</updated>
+        <updated>2021-10-31T22:42:28-07:00</updated>
             <summary>
                 <![CDATA[
                     Hello! My name is Aakanksha Patel. I am a senior studying Communications and Digital Humanities at UCLA. I am very passionate about all&hellip;
@@ -25,7 +25,13 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Hello! My name is Aakanksha Patel. I am a senior studying Communications and Digital Humanities at UCLA. I am very passionate about all things art- from sketching, to painting, to dancing, to film, EVERYTHING! </p>
+                <p>Hello! My name is Aakanksha Patel. I am a senior studying Communications and Digital Humanities at UCLA. I am very passionate about all things art- from sketching, to painting, to dancing, to film, EVERYTHING!</p>
+<div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://aakanksha89.github.io/bananayellow/media/posts/2/gallery/4e4ddec8-1d38-4071-baa1-0f755b3ff547_Original.jpg" data-size="1200x1600"><img loading="lazy" src="https://aakanksha89.github.io/bananayellow/media/posts/2/gallery/4e4ddec8-1d38-4071-baa1-0f755b3ff547_Original-thumbnail.jpg" alt="" width="720" height="960"></a>
+<figcaption>That's me in San Diego's La Jolla, one of my favorite places to sit and paint at!</figcaption>
+</figure>
+</div></div>
+<p>The color yellow of a banana is my favorite color which translates onto the name of this website. I have always loved to paint, but with quarantine the hobby turned into a passion. I spent most of time surrounded with colors and brushes. This webpage is designed to give you a sneak peak into what I have been up to, and if you like anything, please support me by buying a piece!</p>
             ]]>
         </content>
     </entry>
